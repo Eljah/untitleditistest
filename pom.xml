@@ -6,12 +6,12 @@
 
     <groupId>org.example</groupId>
     <artifactId>untitled4</artifactId>
-    <artifactId2>wrong name4</artifactId2>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>12</maven.compiler.source>
         <maven.compiler.target>12</maven.compiler.target>
+        <artifactId2>wrong name4</artifactId2>
     </properties>
 
 </project>
