@@ -12,8 +12,8 @@
         <maven.compiler.source>12</maven.compiler.source>
         <maven.compiler.target>12</maven.compiler.target>
         <artifactId2>wrong name5</artifactId2>
-        <artifactId3>wrong name5 to be rebased</artifactId3>
-        <artifactId4>wrong name5 to be rebased</artifactId4>
+        <artifactId3>wrong name5 to be rebased3</artifactId3>
+        <artifactId4>wrong name5 to be rebased4</artifactId4>
     </properties>
 
 </project>
