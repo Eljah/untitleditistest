@@ -14,8 +14,8 @@
         <artifactId2>wrong name5</artifactId2>
         <artifactId3>wrong name5 to be rebased2</artifactId3>
         <artifactId4>wrong name5 to be rebased4</artifactId4>
+        <artifactId5>wrong name5 to be rebased8MASTER</artifactId5>
         <artifactId5>wrong name5 to be rebased5FORREBASE</artifactId5>
-        <artifactId5>wrong name5 to be rebased8</artifactId5>
         <artifactId5>wrong name5 to be rebased7FORREBASE</artifactId5>
     </properties>
 
