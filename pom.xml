@@ -17,6 +17,7 @@
         <artifactId5>wrong name5 to be rebased8MASTER</artifactId5>
         <artifactId5>wrong name5 to be rebased5FORREBASE</artifactId5>
         <artifactId5>wrong name5 to be rebased7FORREBASE</artifactId5>
+        <artifactId5>wrong name5 to be rebased9CHERRYPICK</artifactId5>
     </properties>
 
 </project>
